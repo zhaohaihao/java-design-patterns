@@ -3,10 +3,10 @@
 > 可结合[blog](http://blog.csdn.net/Dh_Chao/article/category/7023938)查看
 
 ### 创建型
-* [单例模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/singleton)
+* [单例模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/singleton/readme.md)
 * 工厂模式
-	* [简单工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/factory1)
-	* [工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/factory2)
+	* [简单工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/factory1/readme.md)
+	* [工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/factory2/readme.md)
 
 ### 结构型
 

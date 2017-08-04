@@ -22,6 +22,7 @@
 <br />
 　　但凡我们需要增加新的产品层次结构,比如：手表抽象类Watch, 那么相应的我们需要增加对应的IWatch, MiWatch, 同时对应的所有工厂中都需要增加创建Watch对应的工厂方法, 这样大批量的做修改显然是不合适的。<br /><br />
 　　以下我们用简单工厂和反射相结合的方式来改进抽象工厂(此处步骤7、8替换上述步骤7-10)：<br />
+
 ---
  7. [利用反射的方式来改进抽象工厂Factory](https://github.com/zhaohaihao/Java-Design-Patterns/blob/master/src/main/java/com/patterns/abstractFactory/Factory1.java)
  8. [反射抽象工厂测试类 IFactory](https://github.com/zhaohaihao/Java-Design-Patterns/blob/master/src/main/java/com/patterns/abstractFactory/AbstractFactoryTest1.java)

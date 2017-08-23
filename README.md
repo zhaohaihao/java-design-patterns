@@ -10,6 +10,7 @@
 	* [工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/factory2/readme.md)
 * [抽象工厂模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/abstractFactory/readme.md)
 * [建造者模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/builder/readme.md)
+* [原型模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/prototype/readme.md)
 
 ### 结构型
 

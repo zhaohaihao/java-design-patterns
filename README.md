@@ -13,6 +13,7 @@
 * [原型模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/prototype/readme.md)
 
 ### 结构型
+* [适配器模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/adapter/readme.md)
 
 
 ### 行为型

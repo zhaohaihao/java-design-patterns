@@ -17,6 +17,7 @@ public class CardReader1 implements UsbInterface {
 	public void usbRead() {
 		sd.sdRead();
 		System.out.println("读卡器转换...");
+		System.out.println("USB接口读取...");
 	}
 
 }

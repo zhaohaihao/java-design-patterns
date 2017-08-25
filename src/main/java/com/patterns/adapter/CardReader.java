@@ -11,7 +11,10 @@ public class CardReader extends SDInterface implements UsbInterface {
 	public void usbRead() {
 		super.sdRead();
 		System.out.println("读卡器转换...");
-		System.out.println("USB接口读取...");
+		convert();
 	}
 	
+	public void convert() {
+		System.out.println("USB接口读取...");
+	}
 }

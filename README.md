@@ -15,6 +15,7 @@
 ### 结构型
 * [适配器模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/adapter/readme.md)
 * [桥接模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/bridge/readme.md)
+* [组合模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/component/readme.md)
 
 ### 行为型
 

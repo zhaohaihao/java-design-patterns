@@ -18,6 +18,7 @@
 * [组合模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/component/readme.md)
 * [装饰器模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/decorator/readme.md)
 * [外观模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/facade/readme.md)
+* [享元模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/flyweight/readme.md)
 
 ### 行为型
 

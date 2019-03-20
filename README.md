@@ -1,7 +1,7 @@
 # Java设计模式
 > 针对每种设计模式有个简单的demo, 放在相应的包中<br />
 > 以下链接跳转至对应模式查看说明文件, 也可结合[我的博客](http://blog.csdn.net/Dh_Chao/article/category/7023938)查看<br />
-> 如理解有错, 请在评论区指出 , 或者私我邮箱<a href="mailto:todd2933@gmail.com">todd2933@gmail.com</a>
+> 如理解有错, 请在评论区指出 , 或者私我邮箱<a href="mailto:zhh2933@gmail.com">zhh2933@gmail.com</a>
 
 ### 创建型
 * [单例模式](https://github.com/zhaohaihao/Java-Design-Patterns/tree/master/src/main/java/com/patterns/singleton/readme.md)

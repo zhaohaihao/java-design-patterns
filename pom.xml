@@ -14,7 +14,7 @@
         <module>003-SRP</module>
         <module>004-ISP</module>
         <module>005-LoD</module>
+        <module>101-SimpleFactory</module>
     </modules>
-
 
 </project>

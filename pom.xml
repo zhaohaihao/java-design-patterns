@@ -8,5 +8,8 @@
     <artifactId>java-design-patterns</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>001-OCP</module>
+    </modules>
 
 </project>

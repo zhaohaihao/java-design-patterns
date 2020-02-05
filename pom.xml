@@ -11,6 +11,7 @@
     <modules>
         <module>001-OCP</module>
         <module>002-DIP</module>
+        <module>003-SRP</module>
     </modules>
 
 </project>

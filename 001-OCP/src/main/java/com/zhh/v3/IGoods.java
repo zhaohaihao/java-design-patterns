@@ -1,4 +1,4 @@
-package com.zhh.openclose.v1;
+package com.zhh.v3;
 
 /**
  * @author zhh
@@ -21,4 +21,9 @@ public interface IGoods {
      * 获取商品价格
      */
     Double getPrice();
+
+    /**
+     * 获取商品折扣价格
+     */
+    Double getDiscountPrice();
 }

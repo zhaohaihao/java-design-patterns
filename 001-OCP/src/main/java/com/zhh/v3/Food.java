@@ -30,8 +30,4 @@ public class Food implements IGoods {
     public Double getPrice() {
         return this.price;
     }
-
-    public Double getDiscountPrice() {
-        return getPrice() * 0.6;
-    }
 }

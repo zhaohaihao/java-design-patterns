@@ -21,9 +21,4 @@ public interface IGoods {
      * 获取商品价格
      */
     Double getPrice();
-
-    /**
-     * 获取商品折扣价格
-     */
-    Double getDiscountPrice();
 }

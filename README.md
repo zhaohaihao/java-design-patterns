@@ -10,7 +10,7 @@
 - [x] [设计原则-接口隔离原则 (ISP)](https://www.yuque.com/zhaohaihao/coding/issue-0004)
 - [x] [设计原则-迪米特法则 (LoD)](https://www.yuque.com/zhaohaihao/coding/issue-0005)
 - [x] [设计原则-里氏替换原则 (LSP)](https://www.yuque.com/zhaohaihao/coding/issue-0006)
-- [ ] [设计原则-合成复用原则 (CRP)](https://www.yuque.com/zhaohaihao/coding/issue-0007)
+- [x] [设计原则-合成复用原则 (CRP)](https://www.yuque.com/zhaohaihao/coding/issue-0007)
 - [ ] [创建型-单例模式 (Singleton)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [创建型-简单工厂模式 (Simple Factory)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [创建型-工厂模式 (Factory)](https://www.yuque.com/zhaohaihao/coding/issue-#)

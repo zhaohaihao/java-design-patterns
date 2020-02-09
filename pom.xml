@@ -15,6 +15,7 @@
         <module>004-ISP</module>
         <module>005-LoD</module>
         <module>006-LSP</module>
+        <module>007-CRP</module>
     </modules>
 
 </project>

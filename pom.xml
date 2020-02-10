@@ -17,7 +17,7 @@
         <module>006-LSP</module>
         <module>007-CRP</module>
         <module>101-Simple-Factory</module>
-        <module>102-Factory</module>
+        <module>102-Factory-Method</module>
     </modules>
 
 </project>

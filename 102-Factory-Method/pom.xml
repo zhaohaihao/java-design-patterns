@@ -11,5 +11,5 @@
     </parent>
 
     <artifactId>102-Factory</artifactId>
-    <name>创建型-工厂模式</name>
+    <name>创建型-工厂方法模式</name>
 </project>

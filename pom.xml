@@ -16,6 +16,7 @@
         <module>005-LoD</module>
         <module>006-LSP</module>
         <module>007-CRP</module>
+        <module>101-Simple-Factory</module>
     </modules>
 
 </project>

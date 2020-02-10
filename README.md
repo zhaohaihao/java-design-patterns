@@ -13,9 +13,9 @@
 - [x] [设计原则-合成复用原则 (CRP)](https://www.yuque.com/zhaohaihao/coding/issue-0007)
 - [x] [创建型-简单工厂模式 (Simple Factory)](https://www.yuque.com/zhaohaihao/coding/issue-0008)
 - [x] [创建型-工厂方法模式 (Factory Method)](https://www.yuque.com/zhaohaihao/coding/issue-0009)
+- [x] [创建型-抽象工厂模式 (Abstract Factory)](https://www.yuque.com/zhaohaihao/coding/issue-0010)
 
 - [ ] [创建型-单例模式 (Singleton)](https://www.yuque.com/zhaohaihao/coding/issue-#)
-- [ ] [创建型-抽象工厂模式 (Abstract Factory)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [创建型-建造者模式 (Builder)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [创建型-原型模式 (Prototype)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-适配器模式 (Adapter)](https://www.yuque.com/zhaohaihao/coding/issue-#)

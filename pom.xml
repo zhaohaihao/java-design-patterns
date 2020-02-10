@@ -18,6 +18,7 @@
         <module>007-CRP</module>
         <module>101-Simple-Factory</module>
         <module>102-Factory-Method</module>
+        <module>103-Abstract-Factory</module>
     </modules>
 
 </project>

@@ -19,6 +19,14 @@
         <module>101-Simple-Factory</module>
         <module>102-Factory-Method</module>
         <module>103-Abstract-Factory</module>
+        <module>104-Builder</module>
     </modules>
 
+    <developers>
+        <developer>
+            <name>zhh</name>
+            <url>https://www.zhaohaihao.com/category/design-patterns</url>
+            <email>zhh2933@gmail.com</email>
+        </developer>
+    </developers>
 </project>

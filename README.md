@@ -16,8 +16,8 @@
 - [x] [创建型-抽象工厂模式 (Abstract Factory)](https://www.yuque.com/zhaohaihao/coding/issue-0010)
 - [x] [创建型-建造者模式 (Builder)](https://www.yuque.com/zhaohaihao/coding/issue-0011)
 - [x] [创建型-单例模式 (Singleton)](https://www.yuque.com/zhaohaihao/coding/issue-0012)
+- [x] [创建型-原型模式 (Prototype)](https://www.yuque.com/zhaohaihao/coding/issue-0013)
 
-- [ ] [创建型-原型模式 (Prototype)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-适配器模式 (Adapter)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-桥接模式 (Bridge)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-组合模式 (Composite)](https://www.yuque.com/zhaohaihao/coding/issue-#)

@@ -21,6 +21,7 @@
         <module>103-Abstract-Factory</module>
         <module>104-Builder</module>
         <module>105-Singleton</module>
+        <module>106-Prototype</module>
     </modules>
 
     <developers>

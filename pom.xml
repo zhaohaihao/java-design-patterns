@@ -22,6 +22,7 @@
         <module>104-Builder</module>
         <module>105-Singleton</module>
         <module>106-Prototype</module>
+        <module>107-Facade</module>
     </modules>
 
     <developers>

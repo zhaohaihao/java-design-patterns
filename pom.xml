@@ -24,6 +24,7 @@
         <module>106-Prototype</module>
         <module>107-Facade</module>
         <module>108-Decorator</module>
+        <module>109-Adapter</module>
     </modules>
 
     <developers>

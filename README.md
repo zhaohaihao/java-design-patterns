@@ -21,9 +21,9 @@
 - [x] [结构型-装饰器模式 (Decorator)](https://www.yuque.com/zhaohaihao/coding/issue-0015)
 - [x] [结构型-适配器模式 (Adapter)](https://www.yuque.com/zhaohaihao/coding/issue-0016)
 - [x] [结构型-享元模式 (Flyweight)](https://www.yuque.com/zhaohaihao/coding/issue-0017)
+- [x] [结构型-组合模式 (Composite)](https://www.yuque.com/zhaohaihao/coding/issue-0018)
 
 - [ ] [结构型-桥接模式 (Bridge)](https://www.yuque.com/zhaohaihao/coding/issue-#)
-- [ ] [结构型-组合模式 (Composite)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-代理模式 (Proxy)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-模板方法模式 (Template Method)](https://www.yuque.com/zhaohaihao/coding/issue-#)

@@ -1,7 +1,7 @@
 # 设计模式
 本仓库为笔者个人设计模式的学习笔记中的代码片段。
 
-具体学习笔记内容可前往 [个人博客](https://www.zhaohaihao.com/category/design-patterns) 或者 [CSDN博客](https://blog.csdn.net/dh_chao/category_7023938.html) 查看。
+具体学习笔记可前往 [个人博客](https://www.zhaohaihao.com/category/design-patterns) 或者 [CSDN博客](https://blog.csdn.net/dh_chao/category_7023938.html) 查看。
 
 ## 目录
 - [x] [设计原则-开闭原则 (OCP)](https://www.yuque.com/zhaohaihao/coding/issue-0001)
@@ -22,6 +22,7 @@
 - [x] [结构型-适配器模式 (Adapter)](https://www.yuque.com/zhaohaihao/coding/issue-0016)
 - [x] [结构型-享元模式 (Flyweight)](https://www.yuque.com/zhaohaihao/coding/issue-0017)
 - [x] [结构型-组合模式 (Composite)](https://www.yuque.com/zhaohaihao/coding/issue-0018)
+
 - [ ] [结构型-桥接模式 (Bridge)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [结构型-代理模式 (Proxy)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-#)

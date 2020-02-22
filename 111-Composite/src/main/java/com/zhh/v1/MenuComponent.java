@@ -15,15 +15,11 @@ public abstract class MenuComponent {
         throw new UnsupportedOperationException("不支持删除操作");
     }
 
-    public String getName(MenuComponent menuComponent) {
-        throw new UnsupportedOperationException("不支持获取名称操作");
-    }
-
     public String getUrl(MenuComponent menuComponent) {
         throw new UnsupportedOperationException("不支持获取地址操作");
     }
 
-    public void print() {
-        throw new UnsupportedOperationException("不支持打印操作");
-    }
+    public abstract String getName(MenuComponent menuComponent);
+
+    public abstract void print();
 }

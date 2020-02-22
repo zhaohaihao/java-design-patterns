@@ -26,6 +26,7 @@
         <module>108-Decorator</module>
         <module>109-Adapter</module>
         <module>110-Flyweight</module>
+        <module>111-Composite</module>
     </modules>
 
     <developers>

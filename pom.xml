@@ -28,6 +28,7 @@
         <module>110-Flyweight</module>
         <module>111-Composite</module>
         <module>112-Bridge</module>
+        <module>113-Proxy</module>
     </modules>
 
     <developers>

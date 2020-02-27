@@ -29,6 +29,7 @@
         <module>111-Composite</module>
         <module>112-Bridge</module>
         <module>113-Proxy</module>
+        <module>114-Template-Method</module>
     </modules>
 
     <developers>

@@ -30,6 +30,7 @@
         <module>112-Bridge</module>
         <module>113-Proxy</module>
         <module>114-Template-Method</module>
+        <module>115-Iterator</module>
     </modules>
 
     <developers>

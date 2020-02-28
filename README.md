@@ -24,11 +24,11 @@
 - [x] [结构型-组合模式 (Composite)](https://www.yuque.com/zhaohaihao/coding/issue-0018)
 - [x] [结构型-桥接模式 (Bridge)](https://www.yuque.com/zhaohaihao/coding/issue-0019)
 - [x] [结构型-代理模式 (Proxy)](https://www.yuque.com/zhaohaihao/coding/issue-0020)
-- [x] [行为型-模板方法模式 (Template Method)](https://www.yuque.com/zhaohaihao/coding/issue-0021˚)
+- [x] [行为型-模板方法模式 (Template Method)](https://www.yuque.com/zhaohaihao/coding/issue-0021)
+- [x] [行为型-迭代器模式 (Iterator)](https://www.yuque.com/zhaohaihao/coding/issue-0022)
 
 - [ ] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-观察者模式 (Observer)](https://www.yuque.com/zhaohaihao/coding/issue-#)
-- [ ] [行为型-迭代器模式 (Iterator)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-责任链模式 (Chain of Responsibility)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-备忘录模式 (Memento)](https://www.yuque.com/zhaohaihao/coding/issue-#)

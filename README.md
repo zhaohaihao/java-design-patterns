@@ -26,8 +26,9 @@
 - [x] [结构型-代理模式 (Proxy)](https://www.yuque.com/zhaohaihao/coding/issue-0020)
 - [x] [行为型-模板方法模式 (Template Method)](https://www.yuque.com/zhaohaihao/coding/issue-0021)
 - [x] [行为型-迭代器模式 (Iterator)](https://www.yuque.com/zhaohaihao/coding/issue-0022)
+- [x] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-0023)
+- [ ] [行为型-解释器模式 (Interpreter)](https://www.yuque.com/zhaohaihao/coding/issue-0024)
 
-- [ ] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-观察者模式 (Observer)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-责任链模式 (Chain of Responsibility)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-#)
@@ -35,4 +36,3 @@
 - [ ] [行为型-状态模式 (State)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-访问者模式 (Visitor)](https://www.yuque.com/zhaohaihao/coding/issue-#)
 - [ ] [行为型-中介者模式 (Mediator)](https://www.yuque.com/zhaohaihao/coding/issue-#)
-- [ ] [行为型-解释器模式 (Interpreter)](https://www.yuque.com/zhaohaihao/coding/issue-#)

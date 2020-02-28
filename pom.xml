@@ -31,6 +31,7 @@
         <module>113-Proxy</module>
         <module>114-Template-Method</module>
         <module>115-Iterator</module>
+        <module>116-Strategy</module>
     </modules>
 
     <developers>

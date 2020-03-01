@@ -28,8 +28,8 @@
 - [x] [行为型-迭代器模式 (Iterator)](https://www.yuque.com/zhaohaihao/coding/issue-0022)
 - [x] [行为型-策略模式 (Strategy)](https://www.yuque.com/zhaohaihao/coding/issue-0023)
 - [x] [行为型-解释器模式 (Interpreter)](https://www.yuque.com/zhaohaihao/coding/issue-0024)
+- [x] [行为型-观察者模式 (Observer)](https://www.yuque.com/zhaohaihao/coding/issue-0025)
 
-- [ ] [行为型-观察者模式 (Observer)](https://www.yuque.com/zhaohaihao/coding/issue-0025)
 - [ ] [行为型-备忘录模式 (Memento)](https://www.yuque.com/zhaohaihao/coding/issue-0026)
 - [ ] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-0027)
 - [ ] [行为型-中介者模式 (Mediator)](https://www.yuque.com/zhaohaihao/coding/issue-0028)

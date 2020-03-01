@@ -32,6 +32,7 @@
         <module>114-Template-Method</module>
         <module>115-Iterator</module>
         <module>116-Strategy</module>
+        <module>117-Interpreter</module>
     </modules>
 
     <developers>

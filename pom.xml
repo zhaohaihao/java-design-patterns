@@ -33,6 +33,7 @@
         <module>115-Iterator</module>
         <module>116-Strategy</module>
         <module>117-Interpreter</module>
+        <module>118-Observer</module>
     </modules>
 
     <developers>

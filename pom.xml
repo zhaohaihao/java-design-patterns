@@ -35,6 +35,7 @@
         <module>117-Interpreter</module>
         <module>118-Observer</module>
         <module>119-Memento</module>
+        <module>120-Command</module>
     </modules>
 
     <developers>

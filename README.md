@@ -30,9 +30,9 @@
 - [x] [行为型-解释器模式 (Interpreter)](https://www.yuque.com/zhaohaihao/coding/issue-0024)
 - [x] [行为型-观察者模式 (Observer)](https://www.yuque.com/zhaohaihao/coding/issue-0025)
 - [x] [行为型-备忘录模式 (Memento)](https://www.yuque.com/zhaohaihao/coding/issue-0026)
+- [x] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-0027)
+- [x] [行为型-中介者模式 (Mediator)](https://www.yuque.com/zhaohaihao/coding/issue-0028)
 
-- [ ] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-0027)
-- [ ] [行为型-中介者模式 (Mediator)](https://www.yuque.com/zhaohaihao/coding/issue-0028)
 - [ ] [行为型-责任链模式 (Chain of Responsibility)](https://www.yuque.com/zhaohaihao/coding/issue-0029)
 - [ ] [行为型-访问者模式 (Visitor)](https://www.yuque.com/zhaohaihao/coding/issue-0030)
 - [ ] [行为型-状态模式 (State)](https://www.yuque.com/zhaohaihao/coding/issue-0031)

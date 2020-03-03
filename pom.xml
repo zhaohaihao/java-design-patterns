@@ -38,6 +38,7 @@
         <module>120-Command</module>
         <module>121-Mediator</module>
         <module>122-Chain-of-Responsibility</module>
+        <module>123-Visitor</module>
     </modules>
 
     <developers>

@@ -37,6 +37,7 @@
         <module>119-Memento</module>
         <module>120-Command</module>
         <module>121-Mediator</module>
+        <module>122-Chain-of-Responsibility</module>
     </modules>
 
     <developers>

@@ -8,6 +8,7 @@
     <artifactId>java-design-patterns</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>Java版设计模式学习笔记</name>
     <modules>
         <module>001-OCP</module>
         <module>002-DIP</module>

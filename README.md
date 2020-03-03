@@ -1,5 +1,5 @@
 # 设计模式
-本仓库为笔者个人设计模式的学习笔记中的代码片段。
+本仓库为笔者个人设计模式的学习笔记中的代码片段，目前已经完结，欢迎食用、指点。
 
 具体学习笔记的内容可前往 [个人博客](https://www.zhaohaihao.com/category/design-patterns) 或者 [CSDN博客](https://blog.csdn.net/dh_chao/category_7023938.html) 查看。
 

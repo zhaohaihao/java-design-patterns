@@ -36,6 +36,7 @@
         <module>118-Observer</module>
         <module>119-Memento</module>
         <module>120-Command</module>
+        <module>121-Mediator</module>
     </modules>
 
     <developers>

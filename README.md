@@ -32,7 +32,6 @@
 - [x] [行为型-备忘录模式 (Memento)](https://www.yuque.com/zhaohaihao/coding/issue-0026)
 - [x] [行为型-命令模式 (Command)](https://www.yuque.com/zhaohaihao/coding/issue-0027)
 - [x] [行为型-中介者模式 (Mediator)](https://www.yuque.com/zhaohaihao/coding/issue-0028)
-
-- [ ] [行为型-责任链模式 (Chain of Responsibility)](https://www.yuque.com/zhaohaihao/coding/issue-0029)
-- [ ] [行为型-访问者模式 (Visitor)](https://www.yuque.com/zhaohaihao/coding/issue-0030)
-- [ ] [行为型-状态模式 (State)](https://www.yuque.com/zhaohaihao/coding/issue-0031)
+- [x] [行为型-责任链模式 (Chain of Responsibility)](https://www.yuque.com/zhaohaihao/coding/issue-0029)
+- [x] [行为型-访问者模式 (Visitor)](https://www.yuque.com/zhaohaihao/coding/issue-0030)
+- [x] [行为型-状态模式 (State)](https://www.yuque.com/zhaohaihao/coding/issue-0031)
